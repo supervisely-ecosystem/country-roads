@@ -34,14 +34,18 @@
 
 ## Download
 
-Download Sample: [tar archive](https://cloud.enterprise.deepsystems.io/s/LioXQej4APAlmEO/download) (12,6 MB).
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/LioXQej4APAlmEO/download) (12,6 MB).
+Download Sample: [tar archive](https://cloud.enterprise.deepsystems.io/s/zRyFbfsalohAo5N/download) (145,4 MB).
+Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/ULpaTxsxOQt3gv7/download) (1,5 GB).
 
 ## Statistics
 
-Project contains 3 datasets with 1000 images in it, with a total of 10 annotated objects. 
+Sample project contains 3 datasets with 100 images across them, with a total of 100 annotated objects. 
 
-![](https://i.imgur.com/I0PU2mh.jpg)
+![](https://i.imgur.com/rtKT9YD.jpg)
+
+The main project contains 3 datasets with 1000 across them, with a total of 1004 annotated objects. 
+
+![](https://i.imgur.com/1VwNLDj.jpg)
 
 ## Examples
 

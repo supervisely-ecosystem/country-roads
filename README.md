@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/xnXaYKT.jpg" /> 
 
-# Supervisely Country Roads  
+# Country Roads  
 
 <p align="center">
 
@@ -24,13 +24,13 @@
 
 ## Overview 
 
- `Supervisely Country Roads` is an example project with annotated road scenery, with 1000 images in it. 
+ `Country Roads` is an example project with annotated road scenery, with 1000 images in it. 
 
 ![](https://i.imgur.com/2W6DIFm.jpg)
 
 ## Description 
 
-`Supervisely Country Roads` is a demo dataset, perfect for testing of segmentation models. 
+`Country Roads` is a demo dataset, perfect for testing of segmentation models. 
 
 ## Download
 

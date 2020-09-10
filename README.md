@@ -38,7 +38,8 @@ We believe this contribution will be useful for many researchers. We release 100
 
 Sample (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/zRyFbfsalohAo5N/download) (145,4 MB).
 
-Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/ULpaTxsxOQt3gv7/download) (1,5 GB).
+Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/hynQj00FY0aEAEz/download) (1,5 GB).
+
 
 ## Statistics
 

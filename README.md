@@ -50,7 +50,7 @@ The main project contains 3 datasets with 1000 across them, with a total of 1004
 
 ## Examples
 
-![](https://i.imgur.com/VWS3x1g.png) ![](https://i.imgur.com/sSO1go0.png) 
+![](https://i.imgur.com/ZllWD4f.png) ![](https://i.imgur.com/HUjA9AQ.png) ![](https://i.imgur.com/ECkHoR3.png)
 
 ## How To Import
 

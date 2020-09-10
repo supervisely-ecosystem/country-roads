@@ -1,0 +1,11 @@
+{
+    "classes": [
+        {
+            "title": "road",
+            "shape": "bitmap",
+            "color": "#FFFF00",
+            "geometry_config": {}
+        }
+    ],
+    "tags": []
+}

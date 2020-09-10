@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 984,
+        "width": 1230
+    },
+    "objects": [
+        {
+            "id": 511412798,
+            "classId": 1836445,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-09T15:04:52.927Z",
+            "updatedAt": "2020-09-09T15:04:52.927Z",
+            "tags": [],
+            "classTitle": "road",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgOcfAwGzLyAwUiXu2Vh9IsQX4hLgC6f///y+9Of8ukMVYEuQXzODw7EYaAwPrN08Xx5CKOW9v2Obd9pJwS5TUKrHWa/R+eGnF0kzNqKYGE82eD7O8XP4Gz3Eu2qd5bmUMK/+bmdObc8xOf/1afbA+5+K+XXnyuRV3t73eFWzyKHW3fOR39aiPqzaved13se/5qv2b3llLfbrybf6a7jab8p9L55r9dw2Wy951OnD1Is3+Uubc8q5td8xlth5OC79RFxJ+a9uGvxn6W/7yr13x98erdVsO2S3Z3ViWNu3LvxX5GbM3lZVbZP19q/Pqr6HP8dawc3U8lwv3zak3XzJhlnqU4e+Lthe9bva/5Y5S/B24d4HoJvm3U6/936TnP4FpV93SqqjN+895VOyOjror++9vRUdZbt7+oPItQt8W710uq2//fnHi9ssfL/O+FdHdPbeveH/b/EWp5vErj/dd3LJ904e/N/Ytd31//HHgbt0fzrf6LiR9f5ztI7Zbfndg1Iu6K4+3JCvkflnRWudxfNnjO4o9YbWLjp7N+9wptj1XPjXR/OHjwNfWLRdWaW6ZUZitdtFJLGWSzpNq05crvspuvrxq5ZY//hPSjHR/f9o2OXPn+kM/ot8uDA671b79lnP7nC1WndNKK2+bRB1bPaHkyq9Ptk5q/O8uGIqv9VqWupvL10r3eijDJp/Ts+uu/PKzzMhsti4547BaUve48pLWLV+nm1cWtIft5/qw4uvcsGVX52z79snMOENb/73MzV3hjbzvLszqn5All3v2aW7apbA/i7dtznz+7fTpHw/symOmmSUXxG97sHWF+LKvuiU/bolmPP9WnOott/V5X3GGMXu5048Poasv/7rweqXm9GmubRmv5U19oqsKxJdcfXrpVlLma753OlHLFrtllO7csiwmSk1yQapUjNPqU0tNwdI72cQvFPHqLYAo/tkXZaR7+8Gyy6uKMn13bqnZFBJ1bPE0r9PmO05u2RUTFa2j+/jBsktFcltdomJ1dF/fN+69Jua9evOpoIzQuEgm3efmWr3TvnOpXAQaVVp2MyRqarzZxGl/uXyWPd3PNDkzd+MWKxez1rCjJ9QuOK07YBI15Y3xWt1pYe0n7S6usrjJHnVD9IdP95TeyyDtK3J6wo6ecstYGJ4wR0y32r27cuHd713TvtrH3vvusnqxq/P3LWazim9PFatTlv+tl3w47urlWRlHXu97/P117CWPUTgKhwa8/5+5U+sg60PZzj/A6oDB09XPZZ1TQhMAgmFYhQ==",
+                "origin": [
+                    0,
+                    155
+                ]
+            }
+        }
+    ]
+}

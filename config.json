@@ -1,0 +1,10 @@
+{
+  "name": "Country Roads",
+  "description": "Sample image project with one labeled class (road)",
+  "type": "project",
+  "categories": [
+    "demo"
+  ],
+  "icon": "https://i.imgur.com/wOmj0GG.png",
+  "icon_cover": true
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 984,
+        "width": 1230
+    },
+    "objects": [
+        {
+            "id": 511412818,
+            "classId": 1836445,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-09T15:04:52.927Z",
+            "updatedAt": "2020-09-09T15:04:52.927Z",
+            "tags": [],
+            "classTitle": "road",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgOcfAwLSXkRko8kxxkzOQYgvwCXEF0v///196c/5dIIuxJMgvmMHh2Y00BgZmcU8Xx5CKOW+vnPY9HCDgcFFBTCe4ybsw0yTvZI5DF8f8gg1/9+zY3rR45sUYvfScuOulkr07sqPuW4u+3XWvTOzW6arrnBnnv696uOW9z+OM+Dd5Bm9/rX5acGuxs9WUZctsMy/bB1ZfmGdmmOsze7tLrstj7fuTt80+mfn7bGfm9WaP+gW+7JPlFvQq/XWYzT7ZbtfCvX3barJu/ufMOJ2ZenFFRpCJ5iwR3y4118mLPC8uGeWOcunDzaxk/nDMyTbn1MUGYH5h8HT1c1nnlNAEADGFZ1c=",
+                "origin": [
+                    0,
+                    283
+                ]
+            }
+        }
+    ]
+}

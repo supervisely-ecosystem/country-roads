@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 600,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 511412729,
+            "classId": 1836445,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-09T15:04:52.927Z",
+            "updatedAt": "2020-09-09T15:04:52.927Z",
+            "tags": [],
+            "classTitle": "road",
+            "bitmap": {
+                "data": "eJxtlG1MU1cYx4uKQA3dVsAQKK/elpWXpiDM1SDQWzo4belu7oogK9COwATjYrBGmRs4QstYkJXbFzsEpObWAcbqmGQylIRuYynjZXStAlvncDCEqdONLcJQdlr4uA+/e85zz/+c53n+OTlNmDQnkBpGpVAogSA3G6dQtr0GYflsh3+aF++cgMNOTCITwnFjY8Myc8ENZz4qXPoGJeu36QoKZUcsyObLTrU/nB4/+mPWixqlH+9pN90JZG34rLGP+WDKjy9hxNGEjybHHoSfeSlj92NGyVjihzU1q0+HbmF3F1qAeJgMZyVpVcXGBuCr68IymS87B/XcHgU9aLn4LfQZMVSGs8iTh2u+QubLV5kx5gyyGWR3++7qV5h3JzpR9dqfb7aV3st0rNPrRAE6KiuvcU1/SfDMQGeFSNoC/y6AnDCjV+AunfgmwSodNKSuzl6xNIPj5tsOeXd/6r7zV4+wlfgw2cOs1V5CD3hPGW94V1+BHiUbAJPTEWlpwsIrY50HRSYZlx1ZlfBN1F8d+mT2uukP8nFZ7c+iOew0uwxPdZZ8pJkVT2EhMODKhNShxDS2mhQL403Bpw9V4YmyfO8Bwb3xatRl8fQba7bms+m9MUwJ1Pi7tNvMRbiNrAfPsSR7VK/vqiDNUg8eYXn2iN4kj2Y+0GW8ad4PNffqh1RIaXfn/C6XIYU1UBs0SPxe92XCwPNP/8VHkEnGCnOS8d5DsacXHhqI5HS36pPtQ9w9WwjYZUQNrSQHfka8GW9jZfaw0ehySQqnmb/JmB2GfeMfCCHAU7k9eBT5BJ2BVhrVn0F455HvbKHQSg2PK9LwrnmdOys4ZHnCMFnSCc7ByhvcCi+ho5yz6IxlijFtmbK9Snpa32lmOBQ0Kw16VadM95KpFy9rqoGbdwy41U9AgE6UU813Yxk9+/ykUPa2st1LnL4g3uTs3H7VWRL6hT7s+18kBatF5nU8QV9aNc7PGjU5C01nvPiHtFJZrkXFKfnl99vhpQqLR/IFanKZ8TXsoV/dtAnG70nxM+4tXrg8xsd6EyUyken6CyGGf8wXHbU0Gz5Cum0NFret/aKDI5PPTvA34Yw1eK6pI0L3ynHungW/pfSYW0oYRQryYHfvmK4f8/p6UlI0OVwuHTWtaDxzdZuBynJzK+egBxfM1s/hhoxFRcnW8loQVbu1/LHap+uu2X+JBRyNwTwrIFYywfCvbQjYKKRG3UHA2uukDgGN+gkCOTCgakWWtI58gow7559LIHK05QiBRBSiEyoCmaNXy3VIwDmpV2j0CIUeoRUqcDQaEC0Jyd+mAeJwkyeLSt7E+wEQ2eI4QHTK94sJVe5SLHDoxAWAoLGTtTCloWtvBwKu7YiAVdQz79+AFSot/1tLdC6Rv+bjnPvJdX99ow8+HRQglGZbUUX9f0oD+VA=",
+                "origin": [
+                    218,
+                    50
+                ]
+            }
+        }
+    ]
+}

@@ -26,7 +26,7 @@
 
  `Country Roads` is an example project with annotated road scenery, with 1000 images in it. 
 
-![](https://i.imgur.com/2W6DIFm.jpg)
+![](https://i.imgur.com/iSiQuJ8.jpg)
 
 ## Description 
 

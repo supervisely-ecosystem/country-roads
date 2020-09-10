@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/xnXaYKT.jpg" /> 
+<img src="https://i.imgur.com/aqHIADF.jpg" /> 
 
 # Country Roads  
 

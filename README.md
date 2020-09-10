@@ -24,27 +24,29 @@
 
 ## Overview 
 
- `Country Roads` is an example project with annotated road scenery, with 1000 images in it. 
+Full version of `Country Roads` contains 1000 images with annotated road surfaces (see <a href="#download">download</a> section). This repository is a sample with 100 images. Test images can be found <a href="https://github.com/supervisely-ecosystem/country-roads-test">here</a>.
 
 ![](https://i.imgur.com/DVRVXdh.jpg)
 
 ## Description 
 
-`Country Roads` is a demo dataset, perfect for testing of segmentation models. 
+Cityscapes and Mapillary datasets are mostly about city environment. But there are a lot of cases when autonomous vehicles have to drive on country roads: autonomous harvesters, trucks and agriculture robots. Other reason why you can not use mentioned datasets for this task directly is that many classes (e.g. “road shoulder”) are marked as neutral. It leads to inaccurate prediction of drivable area on country roads. 
+
+We believe this contribution will be useful for many researchers. We release 1000 labeled images and 500 test images. We tried to keep the variety of labeled images.
 
 ## Download
 
-Download Sample: [tar archive](https://cloud.enterprise.deepsystems.io/s/zRyFbfsalohAo5N/download) (145,4 MB).
+Sample (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/zRyFbfsalohAo5N/download) (145,4 MB).
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/ULpaTxsxOQt3gv7/download) (1,5 GB).
+Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/ULpaTxsxOQt3gv7/download) (1,5 GB).
 
 ## Statistics
 
-Sample project contains 3 datasets with 100 images across them, with a total of 100 annotated objects. 
+Sample project contains 100 images. 
 
 ![](https://i.imgur.com/rtKT9YD.jpg)
 
-The main project contains 3 datasets with 1000 across them, with a total of 1004 annotated objects. 
+The full version contains 1000 images. 
 
 ![](https://i.imgur.com/1VwNLDj.jpg)
 

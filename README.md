@@ -45,11 +45,11 @@ Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsy
 
 Sample project contains 100 images. 
 
-![](https://i.imgur.com/rtKT9YD.jpg)
+![](https://i.imgur.com/kYcuLPm.png)
 
 The full version contains 1000 images. 
 
-![](https://i.imgur.com/1VwNLDj.jpg)
+![](https://i.imgur.com/LuIt8tH.png)
 
 ## Examples
 

@@ -24,7 +24,7 @@
 
 ## Overview 
 
-Full version of `Country Roads` contains 1000 images with annotated road surfaces (see <a href="#download">download</a> section). This repository is a sample with 100 images. Test images can be found <a href="https://github.com/supervisely-ecosystem/country-roads-test">here</a>.
+Full version of `Country Roads` contains 1000 images with annotated road surfaces (see <a href="#download">download</a> section). This repository is a sample with 100 images. Test images can be found <a href="https://github.com/supervisely-ecosystem/country-roads-test">here</a>. Read more in our <a href="https://medium.com/hackernoon/traveling-the-ml-next-hop-step-by-step-guide-to-recognize-drivable-area-f48c1e1bb76d">blog post</a>.
 
 ![](https://i.imgur.com/DVRVXdh.jpg)
 

@@ -1,9 +1,11 @@
 {
   "name": "Country Roads",
-  "description": "Sample image project with one labeled class (road)",
+  "description": "Labeled roads (sample: 100 images, full version: 1000 images)",
   "type": "project",
   "categories": [
-    "demo"
+    "labeled data",
+    "semantic segmentation",
+    "images"
   ],
   "icon": "https://i.imgur.com/7RSiTOZ.png",
   "icon_cover": true

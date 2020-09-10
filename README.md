@@ -17,7 +17,7 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
-[![](https://img.shields.io/docker/v/supervisely-ecosystem/supervisely-country-roads)](https://github.com/supervisely-ecosystem/supervisely-country-roads)
+[![](https://img.shields.io/docker/v/supervisely-ecosystem/country-roads)](https://github.com/supervisely-ecosystem/country-roads)
 </div>
 
 

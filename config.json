@@ -3,9 +3,9 @@
   "description": "Labeled roads (sample: 100 images, full version: 1000 images)",
   "type": "project",
   "categories": [
-    "labeled data",
-    "semantic segmentation",
-    "images"
+    "import",
+    "images",
+    "project"
   ],
   "icon": "https://i.imgur.com/7RSiTOZ.png",
   "icon_cover": true

@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/ecosystem.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/sbJbdJ2.png" width="100"/> 
+<img src="media/logo.png" width="100"/> 
 
 # Country Roads  
 
@@ -31,7 +31,7 @@
 
 Full version of `Country Roads` contains 1000 images with annotated road surfaces (see <a href="#download">download</a> section). This repository is a sample with 100 images. Test images can be found <a href="https://github.com/supervisely-ecosystem/country-roads-test">here</a>. Read more in our <a href="https://medium.com/hackernoon/traveling-the-ml-next-hop-step-by-step-guide-to-recognize-drivable-area-f48c1e1bb76d">blog post</a>.
 
-![](https://i.imgur.com/DVRVXdh.jpg)
+![](media/overview.jpeg)
 
 ## Description 
 
@@ -50,15 +50,15 @@ Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsy
 
 Sample project contains 100 images. 
 
-![](https://i.imgur.com/kYcuLPm.png)
+![](media/stats1.png)
 
 The full version contains 1000 images. 
 
-![](https://i.imgur.com/LuIt8tH.png)
+![](media/stats2.png)
 
 ## Examples
 
-![](https://i.imgur.com/ZllWD4f.png) ![](https://i.imgur.com/HUjA9AQ.png) ![](https://i.imgur.com/ECkHoR3.png)
+![](media/ex1.png) ![](media/ex2.png) ![](media/ex3.png)
 
 ## Acknowledgement
 

@@ -41,7 +41,7 @@ We believe this contribution will be useful for many researchers. We release 100
 
 ## Download
 
-Sample (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/zRyFbfsalohAo5N/download) (145,4 MB).
+Sample (Supervisely format): [tar archive](https://github.com/supervisely-ecosystem/country-roads/releases/download/v0.9/project.zip) (145,4 MB).
 
 Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/hynQj00FY0aEAEz/download) (1,5 GB).
 
